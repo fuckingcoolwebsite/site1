@@ -1,0 +1,29 @@
+body{
+	background-image: url(../img/assasins.jpg)
+}
+
+.altair{
+	width: 190px;
+	height: 650px;
+	position: absolute;bottom: 0;
+}
+
+.altairp{
+	color: red;
+	font-family: comic sans ms; 
+	font-size: 15pt;
+	margin-left: 15px;
+	
+}
+
+.altair:hover {
+	border: 2px red solid;
+}
+
+a {
+	 text-decoration: none;
+
+}
+.altairp:hover {
+    color: white;
+}

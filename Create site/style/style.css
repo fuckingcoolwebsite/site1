@@ -1,0 +1,38 @@
+.wardrobe {
+	width: 450px;
+	border: 3px red solid;
+	padding: 5px;
+	margin: 15px;
+	float: left;
+	background-color: #B8860B;
+}
+
+.cell1, .cell2, .cell3, .cell4 {
+	height: 260px;
+	border: 2px #333 solid;
+	margin-top: 15px;
+}
+
+.cell1{
+	background-color: cyan;
+}
+
+.cell2{
+	background-color: magenta;
+}
+
+.cell3{
+	background-color: yellow;
+}
+
+.cell4 {
+	background-color: black;
+}
+.home{
+	width:  100px;
+	height: 200px;
+	border: 2px #333 solid;
+	float: left;
+	padding: 5px;
+	margin: 15px;
+}

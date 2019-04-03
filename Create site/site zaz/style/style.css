@@ -1,0 +1,48 @@
+body{
+	background: #F4A460;
+}
+.sh, .sh_2{
+	width: 600px;
+	height: 530px;
+	padding: 5px;
+	margin: 20px;
+	float: left;
+	background-color: #EEE8AA;
+}
+
+.ht, .ht_2 {
+	width: 530px;
+	height: 460px;
+	border: 2px silver solid;
+	background: #eee;
+	float: left;
+	padding: 15px;
+	margin: 15px;
+	background-color: #FFEFD5;
+	overflow: auto;
+
+}
+
+img {
+	width: 280px;
+}
+
+.logo_2{
+	width: 90px;
+}
+
+.photo{
+	width: 300px;
+	float: left;
+	
+}
+
+.ht_2 {
+	background-color: #900020;
+	border: none;
+}
+
+.sh_2 {
+	background-color: #FF8C00;
+
+}
