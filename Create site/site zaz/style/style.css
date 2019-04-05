@@ -6,6 +6,8 @@ body{
 	height: 530px;
 	padding: 5px;
 	margin: 20px;
+	margin-left: 200px;
+	margin-top: 50px;
 	float: left;
 	background-color: #EEE8AA;
 }
